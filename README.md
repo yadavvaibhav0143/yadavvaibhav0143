@@ -10,15 +10,15 @@ I am building on that experience through independent, end-to-end Business Analys
 
 ## 🚀 Flagship Case Studies
 
-### 🏥 Healthcare Provider Onboarding System
-Digital provider onboarding solution covering:
+### 🏥 Healthcare Digital Platform — Business Analysis & Solution Design
+Digital healthcare platform case study covering:
 - AS-IS / TO-BE process design
-- BRD / FRD
-- RBAC
-- 7-entity data model & ERD
+- Stakeholder analysis & business rules
+- 8-entity conceptual ERD & Data Dictionary
+- 16 Agile user stories & Gherkin acceptance criteria
 - REST API contracts
-- Agile user stories & Gherkin acceptance criteria
-- UAT testing pack
+- UAT & Requirements Traceability Matrix
+- PostgreSQL analytics & Tableau dashboard
 
 [View Case Study](https://github.com/yadavvaibhav0143/Healthcare-Provider-Onboarding-Transformation)
 
@@ -63,10 +63,10 @@ PostgreSQL analysis of customer retention, sales trends, and marketing performan
 Requirements Engineering · BRD · FRD · User Stories · Gherkin · RTM · Process Mapping · Business Rules · UAT
 
 **Technical & Data**
-SQL · PostgreSQL · REST APIs · JSON · Postman · ERD · Data Modelling · Tableau · Excel
+SQL · PostgreSQL · REST APIs · JSON · ERD · Data Modelling · Tableau · Excel - VS Code
 
 **Delivery & Collaboration**
-Jira · Confluence · Agile Scrum · Figma · Lucidchart · GitHub
+Agile Scrum · Lucidchart · GitHub
 
 ## 📂 Additional Projects
 
