@@ -63,14 +63,19 @@ PostgreSQL analysis of customer retention, sales trends, and marketing performan
 Requirements Engineering · BRD · FRD · User Stories · Gherkin · RTM · Process Mapping · Business Rules · UAT
 
 **Technical & Data**
-SQL · PostgreSQL · REST APIs · JSON · ERD · Data Modelling · Tableau · Excel - VS Code
+SQL · PostgreSQL · REST APIs · JSON · ERD · Data Modelling · Tableau · Excel · VS Code · Figma
 
 **Delivery & Collaboration**
-Agile Scrum · Lucidchart · GitHub
+Agile Scrum · Jira · Confluence · Lucidchart · GitHub
 
 ## 📂 Additional Projects
 
-Data cleaning, exploratory analysis, Excel/SQL analytics, and Tableau dashboard projects are available across my repositories.
+- [Pizza Sales Analytics](https://public.tableau.com/app/profile/vaibhav.yadav6144/viz/PizzaSales_Report_Tableau/Home) — SQL + Tableau
+- [HR Employee Analysis](https://public.tableau.com/app/profile/vaibhav.yadav6144/viz/HRDashboard_17258673729990/HRSummary) — SQL + Tableau
+- [COVID-19 Global Insights](https://github.com/yadavvaibhav0143/Data_Exploration) — SQL + Tableau
+- [Nashville Housing Data Cleaning](https://github.com/yadavvaibhav0143/Data_Cleaning) — SQL Server
+- [Bike Buyers Analysis](https://github.com/yadavvaibhav0143/Excel_DataAnalysis) — Excel
+- [Banking Portfolio KPI Analysis](https://github.com/yadavvaibhav0143/SQL-SA.portfolio) — SQL Server + Excel
 
 ## 🔗 Connect
 
